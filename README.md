@@ -1,31 +1,31 @@
 # GUI_Java
 
-##ArrayTools.java - 
+## ArrayTools.java - 
 Инструменты для работы со списками(массивами)
 
-##ArtemSorts.java - 
+## ArtemSorts.java - 
 Сортировки Артема
 
-##IlyaSorts.java - 
+## IlyaSorts.java - 
 Сортировки Ильи(мои)
 
-##Input.java/InputPrint -
+## Input.java/InputPrint -
 Работа с получаемыми значениями
 
-##JuliaSorts.java -
+## JuliaSorts.java -
 Сортировки Юли 
 
-##LeeSorts.java -
+## LeeSorts.java -
 Сортировки Тимы Ли
 
-##Run.java -
+## Run.java -
 Исполняемый файл, использовался в старой версии проекта, пока не было GUI
 
-##Utility.java - 
+## Utility.java - 
 Вспомогательный файл Артема
 
-##form.java - 
+## form.java - 
 Присваиваем кнопкам функции + исполняемый файл
 
-##form.form - 
+## form.form - 
 Форма
