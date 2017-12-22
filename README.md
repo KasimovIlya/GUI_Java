@@ -9,7 +9,7 @@
 ## IlyaSorts.java - 
 Сортировки Ильи(мои)
 
-## Input.java/InputPrint -
+## Input.java/InputPrint.java -
 Работа с получаемыми значениями
 
 ## JuliaSorts.java -
