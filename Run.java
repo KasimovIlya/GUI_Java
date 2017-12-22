@@ -61,10 +61,10 @@ public class Run extends TimeTracker{
         ArrayTools.fillrandom(list);
 
         TimeTracker[] algs = new TimeTracker[] {
-                new TimeTracker(new IlyaSorts.InsertionSortt(), "Ilya.InsertionSort"),
+                new TimeTracker(new IlyaSorts.InsertionSort(), "Ilya.InsertionSort"),
                 new TimeTracker(new IlyaSorts.BubbleSort(), "Ilya.BubbleSort"),
                 new TimeTracker(new IlyaSorts.MergeSort(), "Ilya.MergeSort"),
-                new TimeTracker(new IlyaSorts.Quicksort(), "Ilya.Quicksort"),
+                new TimeTracker(new IlyaSorts.QuickSort(), "Ilya.Quicksort"),
                 new TimeTracker(new IlyaSorts.SelectionSort(), "Ilya.SelectionSort"),
         };
 
