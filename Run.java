@@ -61,11 +61,11 @@ public class Run extends TimeTracker{
         ArrayTools.fillrandom(list);
 
         TimeTracker[] algs = new TimeTracker[] {
-                new TimeTracker(new LeeSorts.cocktailsort(), "Lee.cocktailsort"),
-                new TimeTracker(new LeeSorts.bubblesort(), "Lee.bubblesort"),
-                new TimeTracker(new LeeSorts.monkeysort(), "Lee.monkeysort"),
-                new TimeTracker(new LeeSorts.selectionsort(), "Lee.heapsort"),
-                new TimeTracker(new LeeSorts.combsort(), "Lee.combsort"),
+                new TimeTracker(new IlyaSorts.InsertionSortt(), "Ilya.InsertionSort"),
+                new TimeTracker(new IlyaSorts.BubbleSort(), "Ilya.BubbleSort"),
+                new TimeTracker(new IlyaSorts.MergeSort(), "Ilya.MergeSort"),
+                new TimeTracker(new IlyaSorts.Quicksort(), "Ilya.Quicksort"),
+                new TimeTracker(new IlyaSorts.SelectionSort(), "Ilya.SelectionSort"),
         };
 
         for (TimeTracker alg: algs) {
