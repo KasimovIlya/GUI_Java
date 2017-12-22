@@ -1,4 +1,4 @@
-
+/**edited by ilya**/
 interface SortingAlg {
     int[] sort (int[] list);
     String name(int[] list);
